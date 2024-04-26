@@ -1,1 +1,3 @@
-# CS320
+# CS320 REFLECTION
+
+In this project I delivered requested features for a hypothetical application and unit tested every single aspect of them.  To be brief, I ensure my code is functional and secure by making sure it does exactly what it is required to do using various testing techniques.  Security is really just a matter of abstraction so that a user may only interact with your system in expected ways.  Ensuring functionality boils down to an alignment of expected functions and their actualities in practice.  The user's needs can almost always be transcribed into programmable chunks.  In Object Oriented Programming, the concept of objects are invaluable.  They are robust data structures that may include internal machinations.  It makes translating the user's needs almost trivial.
